@@ -13,9 +13,11 @@ export const profile = {
   photo: "./profile.jpg", // replace public/profile.jpg to change your photo
   // TODO: replace these with your real profile URLs
   links: {
-    GitHub: "https://github.com/your-username",
-    LinkedIn: "https://www.linkedin.com/in/your-username",
-    LeetCode: "https://leetcode.com/your-username",
+    GitHub: "https://github.com/your-Kashishsingh05",
+    LinkedIn: "https://www.linkedin.com/in/kashish-singh-7a7373282/",
+    LeetCode: "https://leetcode.com/u/kashishsingh05/",
+    github: "https://github.com/Kashishsingh05/Portfolio",
+    live: "https://kashishsingh05.github.io/Portfolio/",
   },
 };
 
@@ -65,8 +67,8 @@ export const projects = [
       "Project filtering and a contact form with validation.",
       "Performance work: lazy loading and accessible, reduced-motion-friendly animation.",
     ],
-    github: "https://github.com/your-username/portfolio",
-    live: "",
+    github: "https://github.com/Kashishsingh05/Portfolio",
+    live: "https://kashishsingh05.github.io/Portfolio/",
   },
 ];
 
