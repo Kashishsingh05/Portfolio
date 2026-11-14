@@ -13,11 +13,9 @@ export const profile = {
   photo: "./profile.jpg", // replace public/profile.jpg to change your photo
   // TODO: replace these with your real profile URLs
   links: {
-    GitHub: "https://github.com/your-Kashishsingh05",
+    GitHub: "https://github.com/Kashishsingh05",
     LinkedIn: "https://www.linkedin.com/in/kashish-singh-7a7373282/",
     LeetCode: "https://leetcode.com/u/kashishsingh05/",
-    github: "https://github.com/Kashishsingh05/Portfolio",
-    live: "https://kashishsingh05.github.io/Portfolio/",
   },
 };
 
